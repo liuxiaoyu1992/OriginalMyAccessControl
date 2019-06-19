@@ -1,3 +1,5 @@
+//referenced, copied from the github
+
 contract OriginalMyAccessControl {
   	address public owner;
 	mapping(address => bool)  superUser;
